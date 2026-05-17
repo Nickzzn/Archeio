@@ -1,0 +1,24 @@
+O N.E.R.O e os sistemas do projeto Archeio foram desenvolvidos exclusivamente para fins narrativos e interativos, como parte de uma franquia de enigmas baseada em manipulação de arquivos, monitoramento local e eventos dinâmicos dentro de diretórios controlados. O sistema será experiência semelhante a um RPG investigativo digital, utilizando arquivos, pastas e regras programadas para criar eventos e interações narrativas.
+
+O N.E.R.O foi configurado para monitorar apenas a pasta do enigma em que está localizado e suas subpastas. Ele não possui funções voltadas para monitoramento global do sistema operacional, acesso remoto, coleta de dados externos ou atividades maliciosas.Por padrão, o sistema apenas: monitora alterações no diretório do enigma, registra eventos e executa ações definidas no arquivo de regras. Sem regras programadas, o N.E.R.O não executa ações além do monitoramento básico.
+
+As ações possíveis do sistema dependem inteiramente das regras criadas pelo usuário/desenvolvedor dentro do ambiente controlado do enigma. O uso do sistema fora da estrutura proposta pelo Archeio, incluindo modificações no código ou utilização em diretórios pessoais/sensíveis da máquina, é de total responsabilidade do usuário.
+
+Como utilizar:
+1. Execute primeiro o N.E.R.O.
+2. O monitor iniciará automaticamente o monitor.
+3. A partir desse momento, o diretório do enigma será monitorado.
+4. Eventos e comportamentos ocorrerão de acordo com as regras definidas no arquivo regras.py.
+
+Objetivo do projeto:
+
+A Archeio busca criar experiências narrativas interativas utilizando:
+monitoramento local;
+arquivos especiais;
+sistemas fictícios;
+eventos dinâmicos;
+enigmas digitais;
+interação do jogador com o diretório do jogo.
+
+Feedback
+Sugestões, melhorias e ideias para enigmas são bem-vindas.
